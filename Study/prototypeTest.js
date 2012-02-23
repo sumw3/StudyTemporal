@@ -2,7 +2,7 @@ var A = function() {
 }   
 A.prototype = {   
  sayHello: function() {   
-  alert("sayHello A");   
+  alert("sayHello A and local");   
  }   
 }   
   
