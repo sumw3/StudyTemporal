@@ -2,7 +2,7 @@ var A = function() {
 }   
 A.prototype = {   
  sayHello: function() {   
-  alert("edit local");   
+  alert("edit local and edit on line.");   
  }   
 }   
   
